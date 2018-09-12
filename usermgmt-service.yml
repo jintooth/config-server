@@ -1,4 +1,0 @@
-server:
-  servlet:
-    context-path: /users
-  port: 9000
